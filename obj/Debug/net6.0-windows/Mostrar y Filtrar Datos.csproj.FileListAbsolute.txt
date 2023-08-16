@@ -1,0 +1,27 @@
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\Mostrar y Filtrar Datos.exe
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\Mostrar y Filtrar Datos.deps.json
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\Mostrar y Filtrar Datos.runtimeconfig.json
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\Mostrar y Filtrar Datos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\Mostrar y Filtrar Datos.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar_y_Filtrar_Datos.Form1.resources
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar_y_Filtrar_Datos.UI.Clientes.resources
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar_y_Filtrar_Datos.UI.Libros.resources
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar_y_Filtrar_Datos.UI.Principal.resources
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.csproj.GenerateResource.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.AssemblyInfoInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.AssemblyInfo.cs
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.csproj.CopyComplete
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\refint\Mostrar y Filtrar Datos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\Mostrar y Filtrar Datos.genruntimeconfig.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Mostrar y Filtrar Datos\obj\Debug\net6.0-windows\ref\Mostrar y Filtrar Datos.dll
